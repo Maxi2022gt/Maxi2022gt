@@ -10,6 +10,6 @@ C#
 
 C++
 
-what ive learned:
+what im  learning:
 
-LUA
+FNF LUA
