@@ -10,6 +10,8 @@ C++
 
 Godot
 
+HTML and CSS and JS
+
 what im  learning:
 
 none
