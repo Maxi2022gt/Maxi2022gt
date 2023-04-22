@@ -10,8 +10,8 @@ C++
 
 Godot
 
-HTML and CSS and JS
+JS
 
 what im  learning:
 
-none
+HTML and CSS
