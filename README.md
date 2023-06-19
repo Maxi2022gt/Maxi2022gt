@@ -12,6 +12,10 @@ Godot
 
 JS
 
-what im  learning:
+what im learning:
 
 HTML and CSS
+
+done learning:
+
+None
