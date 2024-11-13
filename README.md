@@ -19,3 +19,7 @@ HTML and CSS
 done learning:
 
 None
+
+stats i dont know aaaaaaaaaadsfwaefsrchda
+
+[![Max's stats](https://github-readme-stats.vercel.app/api?username=Maxi2022gt)](https://github.com/anuraghazra/github-readme-stats)
