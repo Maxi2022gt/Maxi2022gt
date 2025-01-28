@@ -6,15 +6,13 @@ what i want to learn:
 
 C#
 
-C++
-
 Godot
-
-JS
 
 what im learning:
 
-HTML and CSS
+HTML and CSS and JS
+
+C++
 
 done learning:
 
