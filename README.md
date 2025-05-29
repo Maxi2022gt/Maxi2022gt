@@ -1,26 +1,8 @@
-# hello.
+# i don't have anything to say to be honest.
 
-So, im just a user that has yt.
-
-what i want to learn:
-
-C#
-
-Godot
-
-what im learning:
-
-HTML and CSS and JS
-
-C++
-
-done learning:
-
-None
+have some stats
 
 
-
-stats i dont know aaaaaaaaaadsfwaefsrchda
 
 [![Max's stats](https://github-readme-stats.vercel.app/api?username=Maxi2022gt&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
 
