@@ -1,5 +1,7 @@
 # i don't have anything to say to be honest.
 
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+
 have some stats
 
 
