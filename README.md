@@ -1,12 +1,11 @@
-# i don't have anything to say to be honest.
+# hi!
+i'm maxi, a web dev, youtuber, coder, and a song creator.
 
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+i mostly do videos cuz of fun
 
-have some stats
+<br>
 
-
-
-[![Max's stats](https://github-readme-stats.vercel.app/api?username=Maxi2022gt&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,visualstudio,vscode,python,cpp,windows,arduino,godot)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxi2022gt&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
 
