@@ -9,4 +9,4 @@ i mostly do videos cuz of fun
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxi2022gt&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-also please do not bring up my old past, it kind of makes me cringe
+also please do not bring up my past (<2022), it kind of makes me cringe
